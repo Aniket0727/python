@@ -1,0 +1,15 @@
+a=21
+b=4
+c=0
+c=a+b
+print("Addition=%d" %c)
+c=a-b
+print("Subtraction=%d" %c)
+c=a*b
+print("Multiplication=%d" %c)
+c=a/b
+print("Division=%f" %c)
+c=a**b
+print("Exponent=%d" %c)
+c=a//b
+print("Floor Division=%d" %c)

@@ -1,0 +1,6 @@
+f=open('abc.txt','w')
+f.write('Computer\n')
+f.write('Engineering\n')
+f.write('Programming with Python\n')
+print('Data written successfully')
+f.close()

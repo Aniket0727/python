@@ -1,0 +1,5 @@
+f=open('abc.txt','r')
+print(f.tell())
+f.seek(15)
+print(f.tell())
+f.close()
