@@ -21,9 +21,10 @@ print(lin)
 
 emp=np.empty((4,2))
 print(emp)
-
+print("****")
 emp2=np.empty_like((a))
 print(emp2)
+print()
 
 num=np.random.randint(1,100,10)     
 print(num)
